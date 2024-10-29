@@ -15,7 +15,7 @@ OpenCore EFI for Asus X540UB. Based on OpenCore 1.0.1, works with MacOS Sonoma a
 # Notes
 This EFI works best with the laptop model given above. I do not guarantee it will run (**or even boot**) on other laptops from other manufacturers, even with the same GPU/CPU specs. To do so, it would require some adjustments in **config.plist** and **kexts**. Do your own research about **kexts** and do your own USB mapping using USBToolBox [tool](https://github.com/USBToolBox/tool) and [kext](https://github.com/USBToolBox/kext). **Remember, put UTBMap.kext into the kexts folder in EFI!** 
 
-Generate your own SMBIOS (MacBookPro15,2), check your hardware, follow OpenCore guide and make proper adjustments! 
+Generate your own SMBIOS (It is not included in the config file!!), check your hardware, follow OpenCore guide and make proper adjustments! 
 
 # Supported macOS versions
 Tested with macOS Sonoma, currently supports up to Sequoia (15.0). 
