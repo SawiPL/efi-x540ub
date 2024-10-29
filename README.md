@@ -6,7 +6,7 @@ OpenCore EFI for Asus X540UB. Based on OpenCore 1.0.1, works with MacOS Sonoma a
 | --- | --- |
 | GPU | Intel HD Graphics 620 1500 MB VRAM |
 | dGPU | nVidia GeForce MX110 (disabled) |
-| Audio | Realtek ALC256 (alcid=7) |
+| Audio | Realtek ALC256 (alcid=5) |
 | RAM | 8 GB 2133 MHz |
 | OpenCore Version | OC 1.0.1 Release |
 | WiFI & Bluetooth | Intel AC Wireless 3165 |
