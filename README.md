@@ -20,6 +20,8 @@ Check your hardware, follow OpenCore guide and make proper adjustments!
 Tested with macOS Sonoma, currently supports up to Sequoia (15.0). 
 
 # Supported features
+|Feature | YES/NO |
+| --- | --- |
 | Audio | YES |
 | WiFi | YES* |
 | Bluetooth | YES* |
