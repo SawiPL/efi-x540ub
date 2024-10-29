@@ -37,7 +37,7 @@ Tested with macOS Sonoma, currently supports up to Sequoia (15.0).
 | Touchpad, multitouch | I2C, YES** |
 | Sleep | It's a bit tricky.*** |
 
-Basically speaking, everything works, *except AirDrop and other Continuity features (Handoff works). It requires **Airportitlwm.kext**, which works in Sonoma, but not on Sequoia. Also, with this kext, you will lose iServices. Use **itlwm.kext** and **Heliport** instead. The kext is in EFI. 
+Basically speaking, everything works, *except AirDrop and other Continuity features (Handoff works). It requires **Airportitlwm.kext**, which works in Sonoma, but not on Sequoia. Also, with this kext, iServices will not work (but AirDrop and Continutiy features will). Use **itlwm.kext** and **Heliport** instead. The kext is in EFI. 
 **Touchpad sometimes stops working, it requires pluging an external mouse in order to fix the problem. I do not know if there is other workaround for this problem.
 *** It seems that sleep mode does not work properly when charging. I do not know if there is workaround. 
 
