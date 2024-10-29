@@ -39,4 +39,6 @@ Basically speaking, everything works, *except AirDrop and other Continuity featu
 **Touchpad sometimes stops working, it requires pluging an external mouse in order to fix the problem. I do not know if there is other workaround for this problem.
 *** It seems that sleep mode does not work properly when charging. I do not know if there is workaround. 
 
+# Disclaimer
+I am not responsible for any damage/data loss caused by using this EFI or installing macOS on your device. It is your choice to do so. It is best to make your own EFI using Dortania OpenCore guide, in this way you minimalize risk of damaging your laptop/PC/potato/whatever you're working on. 
 
