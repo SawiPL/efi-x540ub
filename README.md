@@ -1,6 +1,8 @@
 # OpenCore EFI for Asus X540UB
 OpenCore EFI for Asus X540UB. Based on OpenCore 1.0.1, works with MacOS Sonoma and newer. 
 
+![About this Mac](https://i.imgur.com/mP4R2kn.png)
+
 # Specs 
 | CPU | Intel i5 7200U |
 | --- | --- |
